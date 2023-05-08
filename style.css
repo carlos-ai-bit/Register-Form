@@ -1,0 +1,35 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+#mail {
+    border-radius: 52px;
+    display: flex;
+    font-size: 15px;
+    width: auto;
+    background-color:#00f2ff;
+}
+
+#password {
+    border-radius: 52px;
+    display: flex;
+    font-size: 15px;
+    background-color: #00f2ff;
+}
+
+#r-password {
+    border-radius: 52px;
+    display: flex;
+    font-size: 15px;
+    background-color: #00f2ff;
+
+}
+
+#reg {
+    background-color: #04aa6d;
+    color: white;
+    width: 100%;
+    border-radius: 50px;
+}
